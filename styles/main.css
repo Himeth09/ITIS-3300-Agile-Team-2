@@ -1,20 +1,18 @@
-nav
-{
-    border-top-style:solid;
-    border-bottom-style:solid;
-    border-width: thin;
-    margin-left:8%;
-    margin-right:8%;
+header {
+    margin-bottom: 5vh;
 }
 
-nav > a 
-{
-    padding-right:100px;
-    font-weight: bold;
-    color:black;
-    text-decoration:none;
+.navigation {
+    margin-bottom: 5vh;
 }
 
+.navbar-nav > li {
+    padding: 0 3em 0 1em;
+}
+
+.navbar-brand {
+    padding-left: 6vh;
+}
 
 #homeLink
 {
@@ -43,21 +41,6 @@ nav > a > div:hover
     padding-top:16px;
 }
 
-h3
-{
-    max-height:5%;
-    font-size:32px;
-    font-weight:normal;
-    text-align:center;
-}
-
-#authors{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
 .card{
-    margin: 3em;
+    margin-bottom: 5vh;
 }
