@@ -83,3 +83,8 @@ nav > a > div:hover
 h6{
     width: 100%;
 }
+
+.author-profile-pic {
+    width: 150px;
+    height: auto;
+}
