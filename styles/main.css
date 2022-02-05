@@ -44,3 +44,42 @@ nav > a > div:hover
 .card{
     margin-bottom: 5vh;
 }
+
+.blog-container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nameDate {
+    /* Change the width amount based on your personal preference to ensure that the name and date are on seperate lines. You can keep as a percentage or change to another system. */
+    width:20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+#blogContent {
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#referenceList{
+    text-align: left;
+    padding-bottom: 10px;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+h6{
+    width: 100%;
+}
