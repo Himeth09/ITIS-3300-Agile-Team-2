@@ -89,7 +89,12 @@ h6{
     height: auto;
 }
 
-#charter-example-pic {
-    width: 50%;
+#charter-example-pic, #consequences-reworking-pic, .blog-images {
+    width: 90%;
     height: auto;
+}
+
+.image-caption {
+    font-size: 10px;
+    color: grey;
 }
