@@ -89,6 +89,11 @@ h6{
     height: auto;
 }
 
+.blog-images {
+    width: 90%;
+    height: auto;
+}
+
 .image-caption {
     font-size: 10px;
     color: grey;
